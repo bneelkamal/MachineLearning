@@ -1,6 +1,6 @@
 
 
-# 🚀 Q2: Linear and Logistic Regression Adventure
+# 🚀Linear and Logistic Regression Adventure
 
 Welcome to **Q2: Linear and Logistic Regression**! This project dives into the world of regression analysis, tackling both linear and logistic flavors. Using datasets `linear_regression_dataset.csv` and `logistic_regression_dataset.csv`, we predict relationships and outcomes with a mix of built-in tools and custom code. Ready to explore? Let’s roll! 🌟
 
