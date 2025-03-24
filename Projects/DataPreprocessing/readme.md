@@ -17,6 +17,7 @@ Report
 
 This report details the preprocessing steps applied to the "Cars93.csv" dataset. The dataset contains information on various car models and their attributes, with "Price" being the target variable.
 1.1 Feature Type Identification
+
 Feature	Scale Type	Reasoning
 Model	Nominal	Represents car model names, which are categorical and have no inherent order.
 Type	Nominal	Represents car types (e.g., Small, Midsize), which are categorical and lack order.
