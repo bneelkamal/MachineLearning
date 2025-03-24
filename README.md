@@ -13,7 +13,7 @@ This hub is a growing collection of ML projects showcasing different techniques,
 ### Current Projects
 | Project Name | Description | Tools Used |
 |---|---|---|
-| **[Cars93 Preprocessing](cars93-preprocessing/)** | Prepares the Cars93 dataset for ML by cleaning, encoding, and splitting data. | Pandas, NumPy, Scikit-learn |
+| **[Cars93 Preprocessing](https://github.com/bneelkamal/MachineLearning/tree/main/Projects/DataPreprocessing/CARS93/)** | Prepares the Cars93 dataset for ML by cleaning, encoding, and splitting data. | Pandas, NumPy, Scikit-learn |
 | *More to come!* | Check back as I add new projects regularly! | TBD |
 
 
