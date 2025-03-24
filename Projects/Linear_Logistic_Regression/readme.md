@@ -4,7 +4,7 @@
 
 Welcome to **Q2: Linear and Logistic Regression**! This project dives into the world of regression analysis, tackling both linear and logistic flavors. Using datasets `linear_regression_dataset.csv` and `logistic_regression_dataset.csv`, we predict relationships and outcomes with a mix of built-in tools and custom code. Ready to explore? Let’s roll! 🌟
 
-![Regression Banner](https://raw.githubusercontent.com/bneelkamal/MachineLearning/main/images/q2_banner.png)  
+
 *Predicting the future, one line at a time!*
 
 ---
@@ -31,7 +31,7 @@ This project is split into two exciting tasks:
   4. Plotted a scatter of height vs. weight with the regression line.
 - **Coefficients**: Printed for insight into the model’s fit.
 
-![Linear Regression Sklearn](h[ttps://raw.githubusercontent.com/bneelkamal/MachineLearning/main/images/linear_sklearn.png](https://github.com/bneelkamal/MachineLearning/blob/main/Projects/images/linear_regression_manual.png))  
+
 *Sklearn’s take on the height-weight relationship!*
 
 #### Manual Linear Regression
@@ -42,14 +42,13 @@ This project is split into two exciting tasks:
   4. Plotted the scatter with the manual regression line.
 - **Result**: Nearly identical to sklearn’s output, proving the math holds up!
 
-![Linear Regression Manual](https://raw.githubusercontent.com/bneelkamal/MachineLearning/main/images/linear_manual.png)  
 *Handcrafted precision in action!*
 
 #### Comparison
 - **Graphical**: Overlay of both regression lines shows they’re almost indistinguishable.
 - **Coefficients**: Very close values between sklearn and manual methods—consistency confirmed!
 
-![Comparison Plot](https://raw.githubusercontent.com/bneelkamal/MachineLearning/main/images/linear_comparison.png)  
+
 *Spot the difference? Neither can we!*
 
 ---
@@ -73,7 +72,7 @@ This project is split into two exciting tasks:
 - **Accuracy**: Achieved ~88.75%—pretty solid!
 - **Classification Report**: Precision, recall, and F1-score for both classes (0 and 1).
 
-![Confusion Matrix](https://raw.githubusercontent.com/bneelkamal/MachineLearning/main/images/logistic_confusion.png)  
+
 *Breaking down the predictions!*
 
 ---
@@ -91,11 +90,3 @@ This project is split into two exciting tasks:
 - **Scikit-learn**: Inbuilt models and metrics.
 - **Matplotlib/Seaborn**: Plotting the story.
 
-![Python Badge](https://img.shields.io/badge/Python-3.9+-blue.svg) ![Pandas Badge](https://img.shields.io/badge/Pandas-1.5+-orange.svg) ![Scikit-learn Badge](https://img.shields.io/badge/Scikit--learn-1.3+-green.svg)
-
----
-
-## 🚀 How to Run
-1. **Clone the Repo**:
-   ```bash
-   git clone https://github.com/bneelkamal/MachineLearning.git
