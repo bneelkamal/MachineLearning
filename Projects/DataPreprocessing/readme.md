@@ -20,9 +20,13 @@ This report details the preprocessing steps applied to the "Cars93.csv" dataset.
 
 Feature	Scale Type	Reasoning
 Model	Nominal	Represents car model names, which are categorical and have no inherent order.
+
 Type	Nominal	Represents car types (e.g., Small, Midsize), which are categorical and lack order.
+
 Max.Price	Ratio	Represents the maximum price, a continuous numerical variable with a true zero point.
+
 AirBags	Ordinal	Represents airbag categories (None, Driver only, Driver & Passenger), which have a meaningful order.
+
 	
 1.2 Handling Missing Values
 Identify Missing Values: Columns with missing values (NA/NaN) were identified using cars_df.isna().any().
