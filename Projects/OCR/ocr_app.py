@@ -1,6 +1,6 @@
 
 import streamlit as st
-#import ollama
+import ollama
 from PIL import Image
 import io
 import base64
