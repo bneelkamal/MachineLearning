@@ -4,6 +4,16 @@ from PIL import Image
 import io
 import base64
 
+from transformers import pipeline
+import torch
+
+pipe = pipeline(
+    "image-text-to-text",
+    model="google/gemma-3-27b-it",
+    device="cuda",
+    torch_dtype=torch.bfloat16
+)
+
 # Page configuration
 st.set_page_config(
     page_title="Gemma-3 OCR",
