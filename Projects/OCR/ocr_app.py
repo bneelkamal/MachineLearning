@@ -1,3 +1,4 @@
+$ pip install -U transformers
 import streamlit as st
 #import ollama
 from PIL import Image
