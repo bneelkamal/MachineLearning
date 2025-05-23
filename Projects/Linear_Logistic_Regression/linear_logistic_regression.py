@@ -1,4 +1,4 @@
-#2a: Linear Regression
+# Linear Regression
 
 import pandas as pd
 import numpy as np
@@ -61,7 +61,7 @@ plt.legend()
 plt.show()
 
 
-#2b: Logistic Regression
+# Logistic Regression
 
 import pandas as pd
 from sklearn.model_selection import train_test_split
